@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Being Trend - Official Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #111;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background: #ff0000;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+    }
+    .btn {
+      display: inline-block;
+      background: #ff0000;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background: #222;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>BEING TREND</h1>
+    <p>Vlogger | Creator | Influencer</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#videos">Videos</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Being Trend, a passionate vlogger sharing exciting stories, challenges, and daily life moments. Welcome to my official website!</p>
+  </section>
+
+  <section id="videos">
+    <h2>Featured Video</h2>
+    <iframe width="560" height="315" src="https://youtu.be/0Gvt0Wj5FeA?si=X9dw2J859tsxeAvI" frameborder="0" allowfullscreen></iframe>
+    <br><br>
+    <a href="https://www.youtube.com/@BEINGTRENDOFFICIAL" class="btn">Subscribe on YouTube</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: beingtrend@gmail.com</p>
+    <p>Instagram: <a href="https://www.instagram.com/yeahsohxm/" target="_blank">@yourprofile</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Being Trend | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
